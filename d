@@ -4,7 +4,7 @@
 Mrkrab Stars style Telegram bot — one-file aiogram 3 script.
 
 .env minimum:
-BOT_TOKEN=8958908012:AAH0tWvYw3rsY99CAoUyrTPwywvWZfVDnN4
+BOT_TOKEN=8921053046:AAHa1i03Ji1tsAWHQSVMH2LB-9YhXArRGX0
 ADMIN_IDS=8207246901
 SUBGRAM_API_KEY=...
 BOTOHUB_TOKEN=...
